@@ -56,4 +56,4 @@ API keys, passwords, access tokens, or confidential information.
 Project publication and access are subject to faculty approval.
 
 ---
-Maintained by the AIH Project Coordinators.
+Maintained by the AI Project Coordinators.
